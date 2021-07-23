@@ -1,4 +1,4 @@
-# Hi 👋, I am Aseer 
+# 🙋‍ I am Aseer 
 ## Tech I work with
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="60" />
