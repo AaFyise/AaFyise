@@ -13,8 +13,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="40" />
 
 
 
