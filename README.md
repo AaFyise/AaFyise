@@ -10,7 +10,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" />
 
