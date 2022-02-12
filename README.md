@@ -12,6 +12,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" />
+
 
 
 
