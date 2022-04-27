@@ -12,7 +12,7 @@ Skill:
  * Redux
  * Next.js
  * Less.js
- * Saas\n
+ * Saas/n
  Database:
  * MongoDB
  * Firebase (BaaS)
