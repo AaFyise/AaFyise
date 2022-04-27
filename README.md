@@ -11,6 +11,7 @@
  ✨ Frontend:
  React.js, 
  Redux,
+ CSS,
  Next.js,
  Less.js,
  Saas,
