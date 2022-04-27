@@ -8,6 +8,10 @@
  Node.js, 
  Express.js
  <br>
+ ✨ UI/UX:
+ Figma,
+ Adobe XD
+ <br>
  ✨ Frontend:
  React.js, 
  Redux,
