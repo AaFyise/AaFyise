@@ -12,11 +12,11 @@ Skill:
  * Redux
  * Next.js
  * Less.js
- * Saas/n
+ * Saas<br>
  Database:
  * MongoDB
  * Firebase (BaaS)
- * MySQL
+ * MySQL<br>
  Mobile Development:
  * React Native 
  * Flutter
