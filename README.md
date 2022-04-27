@@ -4,8 +4,6 @@ Skill and expertise:
 <br>
 ✨ I primarily work on JavaScript and Dart
 <br>
-✨ I can build pixel perfect front-end
-<br>
  ✨ Backend:
  Node.js, 
  Express.js
