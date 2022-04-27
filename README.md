@@ -2,28 +2,28 @@ I am passionate programmer and developer. Currently working on a SaaS Company. I
 
 Skill: 
 <br>
--> I primarily work on JavaScript and Dart
+✨ I primarily work on JavaScript and Dart
 <br>
--> I can build pixel perfect front-end
+✨ I can build pixel perfect front-end
 <br>
--> I have worked with: 
+✨ I have worked with: 
 <br>
- -> Backend:
+ ✨ Backend:
  Node.js, 
  Express.js
  <br>
- -> Frontend:
+ ✨ Frontend:
  React.js, 
  Redux,
  Next.js,
  Less.js,
  Saas,
  <br>
- -> Database:
+ ✨ Database:
  MongoDB,
  Firebase (BaaS),
  MySQL
  <br>
- Mobile Development:
+ ✨Mobile Development:
  React Native,
  Flutter
