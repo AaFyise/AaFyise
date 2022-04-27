@@ -20,6 +20,6 @@ Skill and expertise:
  Firebase (BaaS),
  MySQL
  <br>
- ✨Mobile Development:
+ ✨ Mobile Development:
  React Native,
  Flutter
