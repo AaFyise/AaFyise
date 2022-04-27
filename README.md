@@ -8,18 +8,18 @@ Skill:
 <br>
 -> I have worked with: 
 <br>
- Backend:
+ -> Backend:
  Node.js, 
  Express.js
  <br>
- Frontend:
+ -> Frontend:
  React.js, 
  Redux,
  Next.js,
  Less.js,
  Saas,
  <br>
- Database:
+ -> Database:
  MongoDB,
  Firebase (BaaS),
  MySQL
