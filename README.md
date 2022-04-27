@@ -6,8 +6,6 @@ Skill and expertise:
 <br>
 ✨ I can build pixel perfect front-end
 <br>
-✨ I have worked with: 
-<br>
  ✨ Backend:
  Node.js, 
  Express.js
