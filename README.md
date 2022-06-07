@@ -2,7 +2,7 @@
 
 🎯 Skill and expertise:<br>
 ✨ I primarily work on JavaScript/TypeScript and Dart<br>
-✨ Backend: Node.js, Express.js, Hapi.js, Socket.io, Python Flask<br>
+✨ Backend: Node.js, Express, Graphql, Socket.io <br>
 ✨ UI/UX: Figma, Adobe XD<br>
 ✨ Frontend: React.js, Redux, Next.js, Ant design, Less.js, Saas<br>
 ✨ Database: MongoDB, Firebase (BaaS), MySQL, PostgreSQL<br>
