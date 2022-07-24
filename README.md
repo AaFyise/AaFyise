@@ -1,4 +1,4 @@
-Hi 👋 My name is Aseer Al Faisal
+Hi 👋 I am Aseer
 ================================
 
 🎯 Skill and expertise:<br> ✨ JavaScript/TypeScript are my primary language<br> ✨ Backend: Node.js, Express, Apollo Graphql <br> ✨ UI/UX: Figma, Adobe XD<br> ✨ Frontend: React.js, Redux, Next.js, Ant design, Less.js, Saas<br> ✨ Database: MongoDB, Firebase (BaaS), MySQL, PostgreSQL<br> ✨ Mobile Development: React Native, Flutter<br>
