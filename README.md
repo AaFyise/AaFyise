@@ -11,7 +11,7 @@ Hi 👋 I am Aseer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/aseeralfaisal">![Aseers's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseeralfaisal&show_icons=true&theme=radical)
+<a href="http://www.github.com/aseeralfaisal">![Aseers's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseeralfaisal&show_icons=true&theme=radical&title_color="#fff")
 
 <a href="http://www.github.com/aseeralfaisal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aseeralfaisal&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
