@@ -2,7 +2,7 @@ I am Aseer 👋
 ================================
 <h3>A passionate programmer and developer. Currently working on a SaaS Company. I am always eager to learn and develop. I love working on cool projects and transforming my imaginations in to code. I prefer writing quality clean, efficient and maintainable code with best practices.</h3>
 
-🎯 Skill and expertise:<br> ✨ JavaScript/TypeScript are my primary language<br> ✨ Backend: Node.js, Express, Apollo Graphql. Also familar with Django, Flask, PHP <br> ✨ UI/UX: Figma, Adobe XD<br> ✨ Frontend: Next.js, React.js, Redux toolkit, Zustand, Ant design, Less.js, Saas, Stiches, Headless-UI/Radix<br> ✨ Database: MongoDB, Firebase (BaaS), PostgreSQL<br> ✨ ODM/ORM: Mongoose, Sequelize, Prisma <br> ✨ Mobile Development: Expo/React Native, Flutter<br>
+🎯 Skill and expertise:<br> ✨ JavaScript/TypeScript are my primary language<br> ✨ Backend: Node.js, Express, Apollo Graphql. Also familar with Django, Flask, PHP <br> ✨ UI/UX: Figma, Adobe XD<br> ✨ Frontend: Next.js, React.js, Redux toolkit, Zustand, Ant design, Less.js, Saas, Stiches, Headless-UI/Radix<br> ✨ Database: MongoDB, Firebase (BaaS), PostgreSQL<br> ✨ ODM/ORM: Mongoose, Sequelize, Prisma <br> ✨ Mobile Development: Expo/React Native, Familiar with Flutter, Android studio, Java native developemnt <br>
 
 *   🌍  I'm based in Dhaka, Bangladesh
 *   ✉️  You can contact me at [aseeralfaisal@gmail.com](mailto:aseeralfaisal@gmail.com)
