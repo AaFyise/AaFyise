@@ -1,7 +1,7 @@
 Hi 👋 I am Aseer 
 ================================
 
-🎯 Skill and expertise:<br> ✨ JavaScript/TypeScript are my primary language<br> ✨ Backend: Node.js, Express, Apollo Graphql. Also familar with Django, Flask, Vanilla PHP <br> ✨ UI/UX: Figma, Adobe XD<br> ✨ Frontend: React.js, Redux, Next.js, Ant design, Less.js, Saas<br> ✨ Database: MongoDB, Firebase (BaaS), PostgreSQL<br> ✨ Mobile Development: React Native, Flutter<br>
+🎯 Skill and expertise:<br> ✨ JavaScript/TypeScript are my primary language<br> ✨ Backend: Node.js, Express, Apollo Graphql. Also familar with Django, Flask, PHP <br> ✨ UI/UX: Figma, Adobe XD<br> ✨ Frontend: Next.js, React.js, Redux toolkit, Zustand, Ant design, Less.js, Saas, Stiches, Headless-UI/Radix<br> ✨ Database: MongoDB, Firebase (BaaS), PostgreSQL<br> ✨ ODM/ORM: Mongoose, Sequelize, Prisma <br> ✨ Mobile Development: Expo/React Native, Flutter<br>
 
 *   🌍  I'm based in Dhaka, Bangladesh
 *   ✉️  You can contact me at [aseeralfaisal@gmail.com](mailto:aseeralfaisal@gmail.com)
