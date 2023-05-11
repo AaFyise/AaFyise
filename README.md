@@ -72,10 +72,10 @@
     Real-time Communication: 🌐 Socket.io.
   </li>
   <li>
-    GraphQL integration: 🚀 Apollo Server.
+    GraphQL integration: 🚀 Apollo Server
   </li>
   <li>
-  Web Scraping: 🤖 Puppeteer.
+  Web Scraping: 🤖 Puppeteer
   </li>
 </ul>
 <h3>Mobile Development:</h3>
