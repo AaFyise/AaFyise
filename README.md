@@ -12,10 +12,10 @@
     <strong>Learning Mindset:</strong> 🌱 I'm always thirsty for knowledge, staying up-to-date with the latest technologies and industry trends.
   </li>
   <li>
-    <strong>Coding Standards:</strong> ✨ I abide by strict coding standards, crafting top-notch code that is clean, efficient, and maintainable.
+    <strong>Coding Standards:</strong> ✨ I abide by coding standards, crafting top-notch code that is clean, efficient, and maintainable.
   </li>
   <li>
-    <strong>Problem Solver:</strong> 🎯 I'm a master problem-solver, equipped with sharp analytical thinking and a knack for unraveling real-world challenges.
+    <strong>Problem Solver:</strong> 🎯 I've passion for solving real world problems and a knack for unraveling real-world challenges.
   </li>
   <li>
     <strong>Attention to Detail:</strong> 🕵️‍♂️ I pay meticulous attention to detail, ensuring every aspect of a project is flawlessly executed.
