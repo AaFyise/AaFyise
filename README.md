@@ -1,5 +1,16 @@
-<h1>I am Aseer 👋</h1>
-<h3>I am a passionate developer. Worked on two startups. I love working on cool projects in a collaborative environment.  I am always into learning more and grow as better software developer. I prefer writing quality clean, efficient and maintainable code with best practices. I have a passion for solving real world problems and have an eye for attention to detail and also face technical problems which can eventually broaden my knowledge. <h3/>
+<h1>Hey there! I'm Aseer <span>👋</span></h1>
+<p>
+  I'm a passionate developer with a taste for adventure in the coding realm. I've embarked on thrilling startup journeys, honing my skills along the way. Together, let's dive into captivating projects in a collaborative environment! <span>🚀</span> I'm fueled by an insatiable desire to learn, constantly evolving as a software developer. With a dedication to crafting elegant, efficient, and maintainable code, I strive for excellence in everything I do. Solving real-world puzzles and paying attention to even the tiniest details is my specialty. Brace yourself for a thrilling ride through the world of technology! Let's get started! <span>💡</span>
+</p>
+
+<h2>Key Points:</h2>
+<ol>
+  <li>
+    <strong>Experience:</strong> 🎯 I've navigated the startup landscape, acquiring invaluable experience in fast-paced environments.
+  </li>
+  <li>
+    <strong>Learning Mindset:</strong> 🌱 I'm always thirsty for knowledge, staying up-to-date with the latest technologies and industry trends.
+
 <!-- <h3>A passionate programmer and developer. Currently on a carrier break. I am always eager to learn and develop. I love working on cool projects and transforming my imaginations into code. I prefer writing quality clean, efficient and maintainable code with best practices.</h3> -->
 
 <h2>Skills and expertise:</h2>
