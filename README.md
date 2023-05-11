@@ -114,6 +114,6 @@
     <li>
       <strong>Passion:</strong> ⚡ Passionate about fitness and weightlifting 💪
     </li>
-  </ul>
+  </ul><br><br>
   
 <a href="http://www.github.com/aseeralfaisal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aseeralfaisal&stroke=ffffff&background=181824&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
