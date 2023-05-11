@@ -74,6 +74,9 @@
   <li>
     GraphQL integration: 🚀 Apollo Server.
   </li>
+  <li>
+  Web Scraping: 🤖 Puppeteer.
+  </li>
 </ul>
 <h3>Mobile Development:</h3>
 <ul>
