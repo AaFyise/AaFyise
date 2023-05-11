@@ -10,9 +10,20 @@
   </li>
   <li>
     <strong>Learning Mindset:</strong> 🌱 I'm always thirsty for knowledge, staying up-to-date with the latest technologies and industry trends.
-
-<!-- <h3>A passionate programmer and developer. Currently on a carrier break. I am always eager to learn and develop. I love working on cool projects and transforming my imaginations into code. I prefer writing quality clean, efficient and maintainable code with best practices.</h3> -->
-
+  </li>
+  <li>
+    <strong>Coding Standards:</strong> ✨ I abide by strict coding standards, crafting top-notch code that is clean, efficient, and maintainable.
+  </li>
+  <li>
+    <strong>Problem Solver:</strong> 🎯 I'm a master problem-solver, equipped with sharp analytical thinking and a knack for unraveling real-world challenges.
+  </li>
+  <li>
+    <strong>Attention to Detail:</strong> 🕵️‍♂️ I pay meticulous attention to detail, ensuring every aspect of a project is flawlessly executed.
+  </li>
+  <li>
+    <strong>Technical Challenges:</strong> ⚡️ I actively seek out technical challenges, viewing them as opportunities for growth and expanding my knowledge.
+  </li>
+</ol>
 <h2>Skills and expertise:</h2>
 <ul>
   <li>
