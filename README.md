@@ -3,26 +3,27 @@
 </p>
 
 <h2>Key Points:</h2>
-<ol>
+<ul>
   <li>
-    <strong>Experience:</strong> 🎯 I've navigated the startup landscape, acquiring invaluable experience in fast-paced environments.
+    <span>&#128161;</span> Experience: I have worked in fast-paced startup environments, gaining valuable knowledge and skills.
   </li>
   <li>
-    <strong>Learning Mindset:</strong> 🌱 I'm always thirsty for knowledge, staying up-to-date with the latest technologies and industry trends.
+    <span>&#128170;</span> Learning Mindset: I always have a thirst for knowledge and keep up with the latest technologies and industry trends.
   </li>
   <li>
-    <strong>Coding Standards:</strong> ✨ I abide by coding standards, crafting top-notch code that is clean, efficient, and maintainable.
+    <span>&#128295;</span> Coding Standards: I follow established coding guidelines to write clean, efficient, and easy-to-maintain code.
   </li>
   <li>
-    <strong>Problem Solver:</strong> 🎯 I have a passion for solving real world problems and a knack for unraveling real-world challenges.
+    <span>&#128270;</span> Problem Solver: I enjoy solving real-world problems and have a talent for tackling complex challenges.
   </li>
   <li>
-    <strong>Attention to Detail:</strong> 🕵️‍♂️ I pay meticulous attention to detail, ensuring every aspect of a project is flawlessly executed.
+    <span>&#128269;</span> Attention to Detail: I pay close attention to every detail to ensure high-quality project execution.
   </li>
   <li>
-    <strong>Technical Challenges:</strong> ⚡️ I actively seek out technical challenges, viewing them as opportunities for growth and expanding my knowledge.
+    <span>&#128640;</span> Technical Challenges: I actively seek out and embrace technical challenges as opportunities for personal and professional growth.
   </li>
-</ol>
+</ul>
+
 <h2>Skills and expertise:</h2>
 <ul>
   <li>
