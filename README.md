@@ -1,6 +1,5 @@
 <h2>Hey there! I'm Aseer <span>👋</span></h1>
-<p>
-  I'm a passionate developer with a taste for adventure in the coding realm. I've embarked on thrilling startup journeys, honing my skills along the way. Together, let's dive into captivating projects in a collaborative environment! <span>🚀</span> I'm fueled by an insatiable desire to learn, constantly evolving as a software developer. With a dedication to crafting elegant, efficient, and maintainable code, I strive for excellence in everything I do. Solving real-world problems and paying attention to detail is my specialty <span>💡</span>
+<p>Fueled by an insatiable desire to learn, constantly evolving as a software developer. With a dedication to crafting elegant, efficient, and maintainable code, I strive for excellence in everything I do. Solving real-world problems and paying attention to detail is my specialty <span>💡</span>
 </p>
 
 <h2>Key Points:</h2>
