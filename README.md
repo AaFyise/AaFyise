@@ -77,7 +77,7 @@
   Web Scraping: 🤖 Puppeteer
   </li>
   <li>
-    JWT (JSON Web Tokens): 🔒
+   Authentication: JWT (JSON Web Tokens) 🔒
   </li>
 </ul>
 <h3>Mobile Development:</h3>
