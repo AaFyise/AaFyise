@@ -26,97 +26,97 @@
 <h2>Skills and expertise:</h2>
 <ul>
   <li>
-    <strong>Primary languages:</strong> 💻 JavaScript and TypeScript.
+    <strong>Primary languages:</strong> JavaScript and TypeScript.
   </li>
   <li>
-    <strong>Additional languages:</strong> ☕️ Java, 🐍 Python.
+    <strong>Additional languages:</strong> Java, Python.
   </li>
   <li>
-    <strong>Markup languages:</strong> 🌐 HTML, 📝 XML.
+    <strong>Markup languages:</strong> HTML, XML.
   </li>
 </ul>
 <h3>Frontend:</h3>
 <ul>
   <li>
-    Frameworks: ⏩ Next.js, ⚛️ React.js.
+    Frameworks: Next.js, React.js.
   </li>
   <li>
-    State management: 🔄 Redux Toolkit, 🧩 Zustand.
+    State management: Redux Toolkit, Zustand.
   </li>
   <li>
-    UI libraries: 🎨 Ant Design, 🖌️ Material UI, 🧱 Radix (unstyled UI library).
+    UI libraries: Ant Design, Material UI, Radix (unstyled UI library).
   </li>
   <li>
-    Styling: 🎨 Less.js, 🎨 Sass, ✂️ Stitches.
+    Styling: Less.js, Sass, Stitches.
   </li>
   <li>
-    Build tools: 🏗️ Vite, ⚙️ Webpack.
+    Build tools: Vite, Webpack.
   </li>
 </ul>
 <h3>Backend:</h3>
 <ul>
   <li>
-    Node.js frameworks: 🚂 Express, 🦅 Nest.js with REST API development.
+    Node.js frameworks: Express, Nest.js with REST API development.
   </li>
   <li>
-    Python frameworks: 🐍 Django, 🍃 Flask.
+    Python frameworks: Django, Flask.
   </li>
   <li>
-    Database: 🗃️ MongoDB, 🏢 Firebase (BaaS), 🐘 PostgreSQL.
+    Database: MongoDB, Firebase (BaaS), PostgreSQL.
   </li>
   <li>
-    ODM/ORM: 🏗️ Mongoose, ⚓ Sequelize, 🎨 Prisma.
+    ODM/ORM: Mongoose, Sequelize, Prisma.
   </li>
   <li>
-    Real-time Communication: 🌐 Socket.io.
+    Real-time Communication: Socket.io.
   </li>
   <li>
-    GraphQL integration: 🚀 Apollo Server
+    GraphQL integration: Apollo Server
   </li>
   <li>
-  Web Scraping: 🤖 Puppeteer
+    Web Scraping: Puppeteer
   </li>
   <li>
-   Authentication: JWT (JSON Web Tokens) 🔒
+   Authentication: JWT (JSON Web Tokens)
   </li>
 </ul>
 <h3>Mobile Development:</h3>
 <ul>
   <li>
-    Frameworks: 📱 Expo/React Native.
+    Frameworks: Expo/React Native.
   </li>
   <li>
-    IDE: 📚 Android Studio.
+    IDE: Android Studio.
   </li>
 </ul>
 <h3>DevOps:</h3>
 <ul>
   <li>
-    Containerization: 🐳 Docker.
+    Containerization: Docker.
   </li>
   <li>
-    Deployment: 🌐 Render, ☁️ Heroku.
+    Deployment: Render, Heroku.
   </li>
 </ul>
 <h3>Design Patterns:</h3>
 <ul>
   <li>
-    Model-View-Controller (MVC): 🖼️
+    Model-View-Controller (MVC)
   </li>
   <li>
-    Separation of concerns: 🧩
+    Separation of concerns
   </li>
   <li>
-    DRY (Don't Repeat Yourself): 🚱
+    DRY (Don't Repeat Yourself)
   </li>
   <li>
-    Facade: 🎭
+    Facade
   </li>
 </ul>
 <h3>Location:</h3>
 <ul>
   <li>
-    Dhaka, Bangladesh: 📍
+    Dhaka, Bangladesh
   </li>
 </ul>
 <h3>Contact:</h3>
@@ -128,7 +128,7 @@
 <h3>Collaboration:</h3>
 <ul>
   <li>
-    Open to collaborating on interesting projects: 🤝
+    Open to collaborating on interesting projects
   </li>
 </ul>
 <br><br>
