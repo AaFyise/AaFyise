@@ -3,15 +3,12 @@
 </p>
 
 <h2>Key Points:</h2>
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>💡 Experience: I have worked in fast-paced startup environments, gaining valuable knowledge and skills.</li>
-  <li>💪 Learning Mindset: I always have a thirst for knowledge and keep up with the latest technologies and industry trends.</li>
-  <li>🔧 Coding Standards: I follow established coding guidelines to write clean, efficient, and easy-to-maintain code.</li>
-  <li>🔎 Problem Solver: I enjoy solving real-world problems and have a talent for tackling complex challenges.</li>
-  <li>🔍 Attention to Detail: I pay close attention to every detail to ensure high-quality project execution.</li>
-  <li>🚀 Technical Challenges: I actively seek out and embrace technical challenges as opportunities for personal and professional growth.</li>
-</ul>
-
+<span>💡 Experience: I have worked in fast-paced startup environments, gaining valuable knowledge and skills.</span><br>
+<span>💪 Learning Mindset: I always have a thirst for knowledge and keep up with the latest technologies and industry trends.</span><br>
+<span>🔧 Coding Standards: I follow established coding guidelines to write clean, efficient, and easy-to-maintain code.</span><br>
+<span>🔎 Problem Solver: I enjoy solving real-world problems and have a talent for tackling complex challenges.</span><br>
+<span>🔍 Attention to Detail: I pay close attention to every detail to ensure high-quality project execution.</span><br>
+<span>🚀 Technical Challenges: I actively seek out and embrace technical challenges as opportunities for personal and professional growth.</span><br><br>
 
 <h2>Skills and expertise:</h2>
 <ul>
