@@ -76,6 +76,9 @@
   <li>
   Web Scraping: 🤖 Puppeteer
   </li>
+  <li>
+    JWT (JSON Web Tokens): 🔒
+  </li>
 </ul>
 <h3>Mobile Development:</h3>
 <ul>
@@ -93,12 +96,6 @@
   </li>
   <li>
     Deployment: 🌐 Render, ☁️ Heroku.
-  </li>
-</ul>
-<h3>Authentication:</h3>
-<ul>
-  <li>
-    JWT (JSON Web Tokens): 🔒
   </li>
 </ul>
 <h3>Design Patterns:</h3>
