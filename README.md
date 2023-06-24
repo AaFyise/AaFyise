@@ -22,7 +22,7 @@
 <h3>Frontend:</h3>
 <ul>
   <li>
-    Frameworks: Next.js, React.js.
+    Frameworks: Next.js, React.js, Vue.js
   </li>
   <li>
     State management: Redux Toolkit, Zustand.
