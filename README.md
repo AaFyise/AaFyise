@@ -28,7 +28,7 @@
     State management: Redux Toolkit, Zustand.
   </li>
   <li>
-    UI libraries: Ant Design, Material UI, Radix (unstyled UI library).
+    UI libraries: Styled Components, Material UI, Stitches, Ant Design, Radix (unstyled UI library).
   </li>
   <li>
     Styling: Less.js, Sass, Stitches.
