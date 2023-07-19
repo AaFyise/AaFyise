@@ -61,7 +61,7 @@
     Web Scraping: Puppeteer
   </li>
   <li>
-   Authentication: JWT (JSON Web Tokens)
+   Authentication: JWT, Passport.js
   </li>
 </ul>
 <h3>Mobile Development:</h3>
