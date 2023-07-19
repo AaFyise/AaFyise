@@ -49,7 +49,7 @@
     Database: MongoDB, Firebase (BaaS), PostgreSQL.
   </li>
   <li>
-    ODM/ORM: Mongoose, Sequelize, Prisma.
+    ODM/ORM: Prisma, TypeORM, Mongoose, Sequelize.
   </li>
   <li>
     Real-time Communication: Socket.io.
