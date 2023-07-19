@@ -46,7 +46,7 @@
     Python frameworks: Django, Flask.
   </li>
   <li>
-    Database: MongoDB, Firebase (BaaS), PostgreSQL.
+    Database: PostgreSQL, MongoDB, Firebase (BaaS).
   </li>
   <li>
     ODM/ORM: Prisma, TypeORM, Mongoose, Sequelize.
