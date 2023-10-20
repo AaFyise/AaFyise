@@ -28,10 +28,7 @@
     State management: Redux Toolkit, Zustand.
   </li>
   <li>
-    UI libraries: Styled Components, Material UI, Stitches, Ant Design, Radix (unstyled UI library), Tailwind
-  </li>
-  <li>
-    Styling: Less.js, Sass, Stitches.
+    UI libraries: Styled Components, Material UI, Stitches, Ant Design, Radix (unstyled UI library), Tailwind, Less.js, Sass, Stitches.
   </li>
   <li>
     Build tools: Vite, Webpack, Turbopack
