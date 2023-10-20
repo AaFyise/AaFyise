@@ -28,13 +28,13 @@
     State management: Redux Toolkit, Zustand.
   </li>
   <li>
-    UI libraries: Styled Components, Material UI, Stitches, Ant Design, Radix (unstyled UI library).
+    UI libraries: Styled Components, Material UI, Stitches, Ant Design, Radix (unstyled UI library), Tailwind
   </li>
   <li>
     Styling: Less.js, Sass, Stitches.
   </li>
   <li>
-    Build tools: Vite, Webpack.
+    Build tools: Vite, Webpack, Turbopack
   </li>
 </ul>
 <h3>Backend:</h3>
@@ -79,7 +79,7 @@
     Containerization: Docker.
   </li>
   <li>
-    Deployment: Render, Heroku.
+    Deployment: Render, Heroku, Cpanel.
   </li>
 </ul>
 <h3>Design Patterns:</h3>
