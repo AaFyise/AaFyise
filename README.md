@@ -67,7 +67,7 @@
 <h3>Mobile Development:</h3>
 <ul>
   <li>
-    Frameworks: Expo/React Native.
+    Frameworks: Expo/React Native, Flutter
   </li>
   <li>
     IDE: Android Studio.
