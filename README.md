@@ -13,7 +13,7 @@
     <strong>Primary languages:</strong> JavaScript and TypeScript.
   </li>
   <li>
-    <strong>Additional languages:</strong> Python.
+    <strong>Additional languages:</strong> Python, Go
   </li>
   <li>
     <strong>Markup languages:</strong> HTML, XML.
