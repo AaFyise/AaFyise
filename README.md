@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hey there! I'm Aseer<span> 🧒</span></h2>
-    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="256px" alt="waving gif">
+    <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="200px" alt="waving gif">
 </div>
 
 
