@@ -1,5 +1,5 @@
 <div align="center">
-    <h2><img width=30px src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">I'm Aseer 🧒</h2> <img width=500px src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+    <h2><img width=30px src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">I'm Aseer 🧒</h2> <img width=250px src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif">
 </div>
 
 
