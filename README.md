@@ -1,7 +1,7 @@
 <div align="center">
     <h2><img width=30px src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">I'm Aseer 🧒</h2> 
-    <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width=200px>
-    <img width=250px src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif">
+    <img src="https://media.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif?cid=ecf05e47ulv2v9ioo6gyw9yxzsbc5un404u5w8syjwcxl5re&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=200px><br>
+    <img width=250px src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </div>
 
 
